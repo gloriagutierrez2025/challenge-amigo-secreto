@@ -4,7 +4,7 @@ Pasos:
 Para participar en el juego, primero debes poner tu nombre en la siguiente pantalla:
 <img src="gloriagutierrez2025/challenge-amigo-secreto/imagenes-proyecto/consulta-nombre-participante.png" alt="pantalla ingresa tu nombre" width="200">
 Se mostrara un mensaje de saludo antes de dar inicio al juego:
-<img src="gloriagutierrez2025/challenge-amigo-secreto/imagenes-proyecto/respuesta-ingreso-nombre.pngagen" alt="Texto alternativo" width="200">
+<img src="gloriagutierrez2025/challenge-amigo-secreto/imagenes-proyecto/respuesta-ingreso-nombre.png" alt="Texto alternativo" width="200">
 Una vez ingresado tu nombre, debes ingresar el listado de tus amigos en el cuadro blanco y luego hacer clic en añadir.
 <img src="gloriagutierrez2025/challenge-amigo-secreto/imagenes-proyecto/ingreso-lista-de-amigos.png" alt="ingreso de lista de tus amigos" width="200">
 Al terminar de ingresar el listado de tus amigos, estos se verán reflejados abajo del cuadro de ingreso y debes hacer clic en sortear amigo.
